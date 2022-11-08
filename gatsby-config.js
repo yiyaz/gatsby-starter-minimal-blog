@@ -12,11 +12,11 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitle: `Yigit Yazici`,
     siteTitleAlt: `Yigit Yazici - Data Scientist`,
-    siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
-    siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    siteHeadline: `Yigit Yazici - Data Scientist`,
+    siteUrl: ``,
+    siteDescription: `Yigits Personal Website `,
+    siteImage: ``,
+    author: ``,
   },
   plugins: [
     {
@@ -35,12 +35,12 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            name: `LinkedIn`,
+            url: `https://linkedin.com/in/yigit-yazici`,
           },
           {
-            name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            name: `GitHub`,
+            url: `https://github.com/yiyaz`,
           },
         ],
       },
