@@ -13,7 +13,7 @@ module.exports = {
     siteTitle: `Yigit Yazici`,
     siteTitleAlt: `Yigit Yazici - Data Scientist`,
     siteHeadline: `Yigit Yazici - Data Scientist`,
-    siteUrl: ``,
+    siteUrl: `https://minimal-blog.lekoarts.de`,
     siteDescription: `Yigits Personal Website `,
     siteImage: ``,
     author: ``,
