@@ -4,7 +4,7 @@ import { tailwind } from "@theme-ui/presets"
 const theme = merge(tailwind, {
   config: {
     initialColorModeName: `dark`,
-    useColorSchemeMediaQuery: `system`,
+    useColorSchemeMediaQuery: `false`,
   },
   colors: {
     primary: tailwind.colors.purple[7],
